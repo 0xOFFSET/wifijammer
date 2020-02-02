@@ -1,5 +1,5 @@
 
-	E G X H E R O
+	
 
    * Wifi Jammer script .	
    * Sending deauth packets to APs or clients.
